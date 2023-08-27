@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jokes-on-you/static/css/main.b155c273.css",
+    "main.js": "/jokes-on-you/static/js/main.c8bdfccf.js",
+    "index.html": "/jokes-on-you/index.html",
+    "main.b155c273.css.map": "/jokes-on-you/static/css/main.b155c273.css.map",
+    "main.c8bdfccf.js.map": "/jokes-on-you/static/js/main.c8bdfccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b155c273.css",
+    "static/js/main.c8bdfccf.js"
+  ]
+}
